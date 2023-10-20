@@ -1,0 +1,36 @@
+.weatherLogoContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.weatherTitle {
+  color: white;
+  text-align: center;
+  width: 100%;
+  font-size: 2rem;
+}
+
+.weatherLogo {
+  width: 50px;
+  height: auto;
+  text-align: center;
+}
+
+@media only screen and (min-width: 600px) {
+  .weatherContainer {
+    width: 75%;
+    height: 500px;
+    margin: 20px auto;
+    align-self: center;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .weatherContainer {
+    width: 40%;
+    height: 500px;
+    margin: 20px auto;
+    align-self: center;
+  }
+}
+

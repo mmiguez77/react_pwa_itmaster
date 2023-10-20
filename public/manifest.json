@@ -1,0 +1,30 @@
+{
+  "name": "Wheater App",
+  "short_name": "WApp",
+  "description": "Aplicación para conocer el clima en la ciudad de tu interes",
+  "start_url": "./",
+  "id": "/",
+  "display": "standalone",
+  "theme_color": "#241b2c",
+  "background_color": "#ffffff",
+  "screenshots": [
+    {
+      "src": "screenshot.png",
+      "type": "image/png",
+      "sizes": "299x631"
+    }
+  ],
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}

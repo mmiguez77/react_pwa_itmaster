@@ -1,0 +1,33 @@
+.mainInfo {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin: 0px 5px 5px 5px;
+}
+
+.city {
+  font-size: 20px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.country {
+  font-size: 15px;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.condition {
+  font-size: 20px;
+}
+
+.current {
+  font-size: 32px;
+  font-weight: bold;
+}
